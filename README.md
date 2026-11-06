@@ -28,11 +28,3 @@ A collection of three distinct machine learning pipelines implemented in Python 
 * **Evaluation Metrics:** Optimized hyperparameter $k$ (ranging from 2 to 8) using the Elbow Method and Silhouette Scores, visualized via 2-D PCA.
 
 ---
-
-## 🛠️ Getting Started & Replication
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Yvonne9-design/your-repo-name.git](https://github.com/Yvonne9-design/your-repo-name.git)
-   cd your-repo-name
-# ML-portfolio-
